@@ -6,7 +6,7 @@
 
 <body>
     <center>
-        <table bgcolor="green">
+        <table>
             <tr>
                 <th colspan="5">
                     <h3>TOKO SEPATU PELANGI</h3>

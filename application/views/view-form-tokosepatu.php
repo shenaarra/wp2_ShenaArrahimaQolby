@@ -8,7 +8,7 @@
 <body>
     <center>
         <form action="<?= base_url('tokosepatu/cetak'); ?>" method="post">
-            <table bgcolor='turquoise' width="200px">
+            <table>
                 <tr>
                     <th>
                         <h3>TOKO SEPATU PELANGI</h3>
