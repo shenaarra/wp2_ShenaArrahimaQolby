@@ -70,7 +70,7 @@ $where);
  <div class="card-body">
  <div class="row no-gutters align-items-center">
  <div class="col mr-2">
-84
+
  <div class="text-md font-weight-bold text-white text-uppercase mb-1">Buku yang dibooking</div>
  <div class="h1 mb-0 font-weight-bold text-white">
  <?php
