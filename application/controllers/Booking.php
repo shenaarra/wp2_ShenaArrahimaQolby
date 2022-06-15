@@ -145,9 +145,9 @@ public function bookingSelesai($where)
         
         $this->load->library('dompdf_gen');
 
-    //    $sroot      = $_SERVER['DOCUMENT_ROOT'];
-    //    require_once $sroot."/testing/application/third_party/dompdf/autoload.inc.php";
-    //     $dompdf = new Dompdf\Dompdf();
+        // $sroot      = $_SERVER['DOCUMENT_ROOT'];
+        // require_once $sroot."/testing/application/third_party/dompdf/autoload.inc.php";
+        // $dompdf = new Dompdf\Dompdf();
          
         $this->load->view('booking/bukti-pdf', $data);
     
